@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WELKEY
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I know some people and do some things
+
 
 <!---
 WELKEY/WELKEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
